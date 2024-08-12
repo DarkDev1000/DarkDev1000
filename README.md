@@ -6,7 +6,7 @@
 
 - ⚒️ Currently working on ***nothing*** (yet)
 - 🕝 Learning C++
-- 🚪 I'm open to collaborating on projects and music
+- 🤝 I'm open to collaborating on projects and music
 - ❓ Fun fact: When I'm not coding, you can find me making FIRE music
 
 ---
