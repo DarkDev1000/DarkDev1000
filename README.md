@@ -45,5 +45,5 @@
 
 
 ---
-Let's talk.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/QdHE8ymXhe)
+sorry for the cringe bio
