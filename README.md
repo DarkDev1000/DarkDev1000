@@ -1,4 +1,4 @@
-# 😎 Hi, I'm Dark!
+# Hi, I'm Dark!
 
 🧑‍💻 **Full-Stack Developer | Music Producer**
 
